@@ -27,3 +27,5 @@
 敏感词过滤、搜索引擎倒排索引构建
 
 汉字字形/字频统计与分析
+
+文件下载链接：https://github.com/komAAmok/Chinese-Lexicon-Dataset/releases
